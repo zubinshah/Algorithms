@@ -162,3 +162,12 @@ def main(num):
 
 ##############################################################################
 main(1024)
+
+
+
+
+""" 
+
+Binomial Heap - Extension to binary heap, and it provides faster merges, union, 
+including the operations provided by the binary heaps.
+""" 
