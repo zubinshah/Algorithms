@@ -1,25 +1,24 @@
 # Algorithms
-Data structures, algorithms, and solutions to programming exercises.
+Data Structures, Algorithms and Coding Examples.
 
 Copyright (C) 2018, Zubin Shah [zubin dot shah at gmail dot com]
 
-This repository contains implementation and programming solutions to common data
-structures, algorithms and programming exercises. It will be constantly updated 
-with solutions, tweaks and implementation that can be used as an excellent learning
-resource. The solutions are not production quality software but simply a learning 
-exercise.
+This repository contains implementation of well known algorithms and several coding 
+challenges. I will constantly keep on updating this repository with solutions, tweaks
+and implementations that can be used as an excellent source of learning resource. 
+The solutions and exercises are not production quality software.
 
-Implementations are in Python or C++.
+Implementation in Python or C++.
 
 **Contents**
-1. coding (programming exercises, math problems, etc.)
-2. data_structures (data structures and algorithms)
+1. coding (programming exercises, math problems, etc... )
+2. data_structures (and algorithms)
 
-** Future Algorithms : (in the works.. :-) , for implementation and practice).**
+** Future Algorithms : (in the works.. :-) , for implementation and practice).**  
 Sorting  
-Bubble sort 
-Quick sort  
-Insertion sort  
+Bubble sort  
+Quick sort   
+Insertion sort    
 Merge sort  
 Heap sort  
 Bucket sort  
