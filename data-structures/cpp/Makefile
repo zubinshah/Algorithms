@@ -1,0 +1,5 @@
+CC = cc
+GXX = gcc
+
+
+
