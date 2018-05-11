@@ -14,6 +14,7 @@ C program to reverse a string input from the console
 #include <stdio.h>
 #include <stdlib.h>
 
+using namespace std;
 char *strrev(char* s)
 {
     int len=0, i, j;
